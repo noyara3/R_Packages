@@ -13,3 +13,5 @@ Why?
 We will discuse here the function of each package, even though there ar emulti fucntions for each one, but I will focus on the part that will help in population genetic analysis.
 
 ## library(adegenet)
+This package provide DAPC:
+DAPC stands for Discriminant Analysis of Principal Components. It is a statistical method used to identify clusters in multivariate data sets, and it can be used to determine the genetic structure of populations or species. DAPC uses principal component analysis (PCA) combined with discriminant function analysis (DFA), which allows researchers to visualize patterns within their dataset that may not have been visible before.
